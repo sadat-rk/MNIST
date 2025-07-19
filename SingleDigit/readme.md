@@ -33,9 +33,13 @@ This project implements and compares three Convolutional Neural Network (CNN) ar
      * example: Displays sample predictions.
      * LeNet, CNN0, CNN1: Model architecture definitions.
 -------------------------------------------------------------------------------------------------
+### License
+
+MIT License
+
 ### Requirements
-Python 3.x
-Keras
-TensorFlow
-NumPy
-Matplotlib
+* Python 3.x
+* Keras
+* TensorFlow
+* NumPy
+* Matplotlib
