@@ -12,6 +12,12 @@ Convolutional Layers: Extract spatial features from the multi-digit images.
 Max-Pooling Layers: Reduce spatial dimensions while retaining important features.
 Dense Layers: Perform classification based on extracted features.
 Output: Predicts the sequence of five digits, likely as a vector of probabilities or values scaled to represent digits.
+
+## Resualts
+<img width="1165" height="455" alt="image" src="https://github.com/user-attachments/assets/c9f613a4-6b6f-45b3-91fe-cd52939dedb6" />
+Accuracy= 76.14 %
+<img width="977" height="115" alt="image" src="https://github.com/user-attachments/assets/f19bff3f-65d8-4ab2-858b-d6cfbd369d67" />
+
 --------------------------------------------------------------------------------------------------
 ## Potential Improvements
 
