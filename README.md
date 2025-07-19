@@ -34,6 +34,10 @@ To enhance the project’s complexity and performance, consider the following:
 ## SingleDigit Prediction
 *  A single Digit classification project is implemented in the folder [SingleDigit](https://github.com/sadat-rk/MNIST/tree/main/SingleDigit).
 --------------------------------------------------------------------------------------------------
+### License
+
+MIT License
+
 ### Requirements
 To run the notebook, install the following dependencies:
 
