@@ -36,11 +36,12 @@ To enhance the project’s complexity and performance, consider the following:
 --------------------------------------------------------------------------------------------------
 ### Requirements
 To run the notebook, install the following dependencies:
-Python 3.x
-Jupyter Notebook
-Keras
-TensorFlow
-NumPy
-Matplotlib
-OpenCV (cv2)
-PIL (Python Imaging Library)
+
+* Python 3.x
+* Jupyter Notebook
+* Keras
+* TensorFlow
+* NumPy
+* Matplotlib
+* OpenCV (cv2)
+* PIL (Python Imaging Library)
